@@ -23,14 +23,5 @@ would be added by this add-on:
 
 Installation
 ------------
-
 * [Metric Cooking for Firefox](https://addons.mozilla.org/en-US/firefox/addon/metric-cooking/)
-* [Metric Cooking for Chrome](https://chrome.google.com/webstore/detail/metric-cooking/ofokbkejapnkgolaccooepjmgpbidedg)
 
-Issues
-------
-
-If a recipe page is not annotated properly, please [open a new
-issue](https://github.com/falk-hueffner/metric-cooking/issues/new) and
-provide the address of the web page (you'll need a github account). I
-will then try to fix it.
